@@ -1,4 +1,4 @@
-# SCB-Friday-Django
+# Django
 
 
 
